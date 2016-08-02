@@ -11,3 +11,4 @@ OptionPrice.py: Simulates a stock market and calculates the option price from a 
 
 markov.py AND markov2.py: Using Markov Chains to produce new text from input text sample. markov.py takes more storage than markov2.py.
 
+GuessString.py: Implemented in the study of stochastic language matching comparisons
